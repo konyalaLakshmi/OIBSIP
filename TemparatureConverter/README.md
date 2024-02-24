@@ -1,4 +1,4 @@
-## Temparature Converter - (TASK-3)
+## Temperature Converter - (TASK-3)
 
 ![Temparature Converter](https://i.ibb.co/tByMtyc/Screenshot-2024-02-13-110947.png)
 
