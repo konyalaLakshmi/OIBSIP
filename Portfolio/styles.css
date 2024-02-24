@@ -11,7 +11,7 @@
 
 .carousel-indicators li {
     background: none;
-   
+
     width: 40px;
     transform: scaleY(0.9);
     background-color: black !important;
@@ -809,10 +809,11 @@ body {
     font-size: 16px;
     font-weight: 300;
 }
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     background-color: black !important;
-    margin-top:100px;
+    margin-top: 100px;
 }
 
 
@@ -820,6 +821,8 @@ body {
 .carousel-control-next-icon:hover {
     background-color: black;
 }
+
 .skills .progress-bar {
-    background-color: #8b0242; /* Set the background color of the progress bar */
+    background-color: #8b0242;
+    /* Set the background color of the progress bar */
 }
